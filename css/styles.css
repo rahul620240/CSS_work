@@ -1,0 +1,160 @@
+div
+{
+    background-color: #E8F9FD;
+  margin: 0px;
+
+}
+
+
+h1{
+margin-top: 0px;
+font-family: 'Sacramento', cursive;
+font-size:  3rem;
+color: #66BFBF;
+}
+
+h2
+{
+   color: #66BFBF;
+}
+
+
+body{
+margin: 0px;
+font-family: 'Merriweather', serif;
+text-align: center;
+}
+
+.top-cloud-1{
+   position: relative;
+   height: 50px;
+   width: 100px;
+   margin-left: 450px;
+   padding-top: 10px;
+   padding-bottom: 30px;
+
+}
+.top-cloud-2{
+   position: relative;
+   height: 70px;
+   width: 150px;
+   margin-left: 450px;
+   padding-top: 10px;
+   padding-bottom: 30px;
+
+}
+.top-cloud-3{
+   position: relative;
+   height: 105px;
+   width: 200px;
+   margin-left: 350px;
+   padding-top: 10px;
+   padding-bottom: 30px;
+
+}
+
+.btn
+{
+  
+
+   font-size:28px;
+   font-family:Times New Roman;
+   width:200px;
+   height:76px;
+   border: width 25px;
+   color:#ffffff;
+   border-color:black(28, 46, 28, 48);
+   font-weight:bold;
+   font-style:italic;
+   border-top-left-radius:34px;
+   border-top-right-radius:34px;
+   border-bottom-left-radius:34px;
+   border-bottom-right-radius:34px;
+   box-shadow:inset 20px 39px 13px 18px #54a3f7;
+   text-shadow:inset 5px 5px 5px #154682;
+   background:#007dc1;
+   margin: 0px 20px 20px 20px;
+ }
+ 
+ .btn:hover {
+   background: #96a700;
+
+ }
+            
+
+.bottom-cloud-1{
+   position: relative;
+   margin-right: 450px;
+
+   height: 50px;
+   width: 100px;
+   padding-top: 30px;
+   padding-bottom: 10px;
+}
+
+.bottom-cloud-2{
+   position: relative;
+   margin-right: 450px;
+
+   height: 80px;
+   width: 200px;
+   padding-top: 30px;
+   padding-bottom: 20px;
+}
+
+.bottom-cloud-3{
+   position: relative;
+   margin-right: 450px;
+
+   height: 110px;
+   width: 250px;
+   padding-top: 30px;
+   padding-bottom: 20px;
+}
+
+.C++
+{
+
+   height: 500px;
+   width: 600px;
+
+}
+
+
+
+.mountain
+{
+height: 200px;
+width: 650px; 
+margin-top: 10px;
+margin-bottom: 0px;
+
+}
+
+.profile
+{
+   margin: left 150px; 
+   margin-right: 150px;
+
+
+}
+
+.profile_table
+{
+border-spacing: 150px;
+
+}
+
+.bottom-container
+{
+background-color: #66BFBF;
+margin-top: 10px;
+margin-bottom: 0px ;
+padding: 50px 0 20px;
+}
+
+a{
+
+   color: rgb(255, 0, 200);
+   padding: 0 10px 0 10px;
+}
